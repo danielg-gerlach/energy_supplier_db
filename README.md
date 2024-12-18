@@ -25,5 +25,3 @@ This project involves the design and implementation of a scalable and normalized
 3. **Review the Data Model:**
     - Refer to the included Entity-Relationship Diagram (ERD) for a visual representation of the database structure.
 
-## Conclusion
-This Energy Supplier Data Modeling Project showcases the ability to design a robust and efficient relational database tailored to the operational needs of an energy supplier. It demonstrates strong skills in data modeling, SQL development, and problem-solving within a real-world business context.
